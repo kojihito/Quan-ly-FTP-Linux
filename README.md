@@ -390,6 +390,6 @@ Password: `0823072871`
 *Sau khi điền xong thông tin, ta nhấn nút “Quickconnect” để bắt đầu kết nối.*
 
 ![image](https://github.com/user-attachments/assets/d80227aa-72c1-4f8e-a570-5bf8002244bb)
-*Kết quả như hình là đã kết nối thành công.*
+*Kết quả như hình là đã kết nối thành công. Có thể thực hiện upload và save file như bình thường.*
 
 
