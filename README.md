@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da3be6c7-6371-49ed-a48e-9a78f6280a86)# Quản lý FTP server trên Linux
+# Quản lý FTP server trên Linux
 
 ## Nội dụng 
 - **I.Hướng dẫn chuẩn bị**
