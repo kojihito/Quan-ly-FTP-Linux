@@ -1,10 +1,16 @@
 ![image](https://github.com/user-attachments/assets/da3be6c7-6371-49ed-a48e-9a78f6280a86)# Quản lý FTP server trên Linux
 
 ## Nội dụng 
-- ** I.Hướng dẫn chuẩn bị
-  - ** 1. Chuẩn bị các DNS server hoàn chỉnh
-  - ** 2. Tải
-  - ** 3. ?
+- **I.Hướng dẫn chuẩn bị**
+  - **1. Chuẩn bị các DNS server hoàn chỉnh**
+  - **2. Cài đặt thư viện VSFTPD
+  - **3. Cài thư viện FTP**
+- **II. Bắt đầu quản lý FTP**
+  - **1. Khởi chạy FTP cơ bản**
+  - **2. Khởi chạy FTP với user**
+  - **3. Dùng máy client dăng nhập vào FTP server**
+  - **4. Cài đặt Filezilla trên máy Client**
+  - **5. Thực hành Filezilla trên máy Client**
  
 # I. Hướng dẫn chuẩn bị
 ## 1. Chuẩn bị các DNS Server hoàn chỉnh
@@ -369,7 +375,7 @@ Hoặc
 - Bước 5: Mở filezilla
 ![image](https://github.com/user-attachments/assets/17685609-1099-4d36-8835-fee0d700354f)
 
-## 5. Thực hành FILEZILLA trên máy CLIENT
+## 5. Thực hành Filezilla trên máy client
 Sau khi đã cài đặt thành công, ta tiến hành kết nối đến FTP Server
 - Bước 1: Mở ứng dụng filezilla bằng dòng lệnh `filezilla` trong Terminal
 
