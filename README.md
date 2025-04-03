@@ -3,7 +3,7 @@
 ## Nội dụng 
 - **I.Hướng dẫn chuẩn bị**
   - **1. Chuẩn bị các DNS server hoàn chỉnh**
-  - **2. Cài đặt thư viện VSFTPD
+  - **2. Cài đặt thư viện VSFTPD**
   - **3. Cài thư viện FTP**
 - **II. Bắt đầu quản lý FTP**
   - **1. Khởi chạy FTP cơ bản**
